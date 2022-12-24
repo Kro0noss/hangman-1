@@ -1,0 +1,12 @@
+            const words = [
+            'EXTREMEMENT',
+            'AMERICA',
+            'TABOULET',
+            'CAMPAGNE',
+            'CHOCOLATINE',
+            'MEDICAMENT',
+            'HORLOGE',
+            'ESCALIER',
+            'DEUXIEMEPOTEAUPAVARD',
+            'TRIPOLOSKI'
+];

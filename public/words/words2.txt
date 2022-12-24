@@ -1,0 +1,20 @@
+    const words = [
+    'POPULAIRE',
+    'BIJOUX',
+    'VASE',
+    'INSCRIPTION',
+    'LONGUEUR',
+    'FONDUE',
+    'NERVURE',
+    'QUINZE',
+    'EXTRAORDINAIRE',
+    'EXTRAVAGANT',
+    'MAJESTUEUX',
+    'ENORME',
+    'ANTICONSTITUTIONNELLEMENT',
+    'REPUBLIQUE',
+    'AMERIQUE',
+    'ONLY',
+    'IN',
+    'OHIO'
+];

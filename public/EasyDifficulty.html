@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link rel="shortut icon" href="img/skull-icon-25.png" type="images/png"/>
+  <meta charset="utf8" />
+  <title>Hangman</title>
+</head>
+<body>
+<div id="score">
+</div>
+<div id="wrapper">
+  <div id="answer">
+    <ul></ul>
+  </div>
+  <div id="choices">
+    <ul>
+    </ul>
+    <div id="formulaire" style="visibility: hidden;">
+      <input type="button" value = "Rafraîchir" onclick="history.go(0)" />
+    </div>
+    <input type="button" onclick="document.getElementById('formulaire').style.visibility='visible';">
+  </div>
+</div>
+</body>
+<script src="words/words1.txt"></script>
+<script src="js/initFunctions.js"></script>
+<script src="js/main.js"></script>
+</html>
